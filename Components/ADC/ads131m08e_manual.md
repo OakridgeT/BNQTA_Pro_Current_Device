@@ -441,6 +441,7 @@ Adjust the data rate and gain to optimize the ADS131M08 noise performance. When 
 The noise performance scales with the OSR and gain settings, but is independent from the configured power mode. Thus, the device exhibits the same noise performance in different power modes when selecting the same OSR and gain settings. However, the data rate at the OSR settings scales based on the applied clock frequency for the different power modes.
 
 **Equation 1**
+
 $$
 Dynamic Range = 20 \times \log ({V}_{REF} \div  (\sqrt{2}\times Gain \times {V}_{RMS} ))
 $$
