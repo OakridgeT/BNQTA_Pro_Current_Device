@@ -442,7 +442,7 @@ The noise performance scales with the OSR and gain settings, but is independent 
 
 
 $$
-Dynamic Range = 20 \times \log ({V}_{REF} \div  (\sqrt{2}\times Gain \times {V}_{RMS} ))\tag{Equation 1}
+Dynamic Range = 20 \times \log ({V}_{REF} \div  (\sqrt{2}\times Gain \times {V}_{RMS} ))
 $$
 
 $$
